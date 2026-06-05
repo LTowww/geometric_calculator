@@ -48,4 +48,4 @@ python geometric_calculator.py
 
 ## 👤 Autor
 
-Feito por **Miguel**
+Feito por **Miguel Filipe**
